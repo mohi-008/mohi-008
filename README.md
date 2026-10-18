@@ -1,94 +1,52 @@
-<div align="center">
+<div align="center"> <img src="./assets/hero.svg" alt="Mohit Kumar, AI/ML student. I don't just code the future. I teach it to think." width="100%"/> <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:8957e5&height=240&section=header&text=YOUR%20NAME&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Developer%20%7C%20Designer%20%7C%20Learner&descSize=20&descAlignY=62" width="100%"/>
+B.Tech CSE (AI-ML) student at Lovely Professional University, building with machine learning, computer vision, and LLM-powered applications.
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+Welcome+to+my+profile;I+build+things+for+the+web;Always+learning%2C+always+shipping;Open+to+collaborations+%F0%9F%9A%80" />
-</a>
+<br/>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-profile-22D3EE?style=flat-square&labelColor=1E2038"/></a> <a href="https://YOUR_PORTFOLIO_URL"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-website-22D3EE?style=flat-square&labelColor=1E2038"/></a> <a href="mailto:YOUR_EMAIL@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact-22D3EE?style=flat-square&labelColor=1E2038"/></a> <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-profile-22D3EE?style=flat-square&labelColor=1E2038"/></a>
+
+</div> <br/>
+About
+
+I'm fascinated by how machines learn, interpret information, and generate new possibilities. As a CSE student specialising in AI-ML, I work with machine learning, computer vision, multimodal AI, and LLM-powered applications, and I like understanding the technology behind intelligent systems well enough to turn it into practical projects.
+
+Alongside AI/ML, I build full-stack applications with React, Next.js, FastAPI, and Node.js. I turn curiosity into code and ideas into intelligent applications.
+
+What I work on
+<table> <tr> <td width="50%" valign="top"> <b>Machine learning</b><br/> <sub>Exploratory data analysis and classical ML with NumPy, Pandas, and Scikit-learn.</sub> </td> <td width="50%" valign="top"> <b>Computer vision</b><br/> <sub>Image models and pipelines, including MobileNetV2.</sub> </td> </tr> <tr> <td width="50%" valign="top"> <b>Generative and multimodal AI</b><br/> <sub>Vision-language and image generation models such as LLaVA and Stable Diffusion XL Turbo.</sub> </td> <td width="50%" valign="top"> <b>LLM-powered applications</b><br/> <sub>Putting language models behind real interfaces and APIs.</sub> </td> </tr> <tr> <td width="50%" valign="top"> <b>Full-stack development</b><br/> <sub>React, Next.js, FastAPI, Node.js, and cloud databases.</sub> </td> <td width="50%" valign="top"> <b>Computer science foundations</b><br/> <sub>Data structures and algorithms, OOP, DBMS, and computer networks.</sub> </td> </tr> </table>
+Skills
+
+Languages<br/> <img src="https://skillicons.dev/icons?i=cpp,c,java,py&theme=dark" alt="C++, C, Java, Python"/>
+
+AI/ML and data science<br/> <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&theme=dark" alt="NumPy, Pandas, Scikit-learn"/><br/> <sub>Machine learning, exploratory data analysis, Jupyter Notebook</sub>
+
+Generative AI and computer vision<br/> <sub>LLMs, multimodal AI, MobileNetV2, LLaVA, Stable Diffusion XL Turbo</sub>
+
+Web and backend<br/> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,fastapi&theme=dark" alt="HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Node.js, FastAPI"/>
+
+Databases and cloud<br/> <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" alt="MySQL, MongoDB, Firebase"/><br/> <sub>Firebase Firestore, Firebase Realtime Database</sub>
+
+Tools<br/> <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code"/>
+
+Featured projects
+<!-- EDIT THIS SECTION. Replace each placeholder with a real project. Use only real repo links and real demos. Delete any card you don't need. --> <table> <tr> <td width="50%" valign="top"> <h4><a href="https://github.com/mohi-008/REPO_NAME_1">PROJECT NAME 1</a></h4> <p>One sentence on the problem this project solves.</p> <ul> <li>Key feature</li> <li>Key feature</li> </ul> <p><sub>Tech stack: Python, FastAPI, ...</sub></p> <a href="https://YOUR_DEMO_LINK_1">Live demo</a> </td> <td width="50%" valign="top"> <h4><a href="https://github.com/mohi-008/REPO_NAME_2">PROJECT NAME 2</a></h4> <p>One sentence on the problem this project solves.</p> <ul> <li>Key feature</li> <li>Key feature</li> </ul> <p><sub>Tech stack: Next.js, Firebase, ...</sub></p> <a href="https://YOUR_DEMO_LINK_2">Live demo</a> </td> </tr> <tr> <td width="50%" valign="top"> <h4><a href="https://github.com/mohi-008/REPO_NAME_3">PROJECT NAME 3</a></h4> <p>One sentence on the problem this project solves.</p> <ul> <li>Key feature</li> <li>Key feature</li> </ul> <p><sub>Tech stack: Python, Scikit-learn, ...</sub></p> <a href="https://github.com/mohi-008/REPO_NAME_3">Source code</a> </td> <td width="50%" valign="top"> <h4><a href="https://github.com/mohi-008?tab=repositories">More work</a></h4> <p>Everything else I'm building and experimenting with lives in my repositories.</p> <a href="https://github.com/mohi-008?tab=repositories">Browse all repositories</a> </td> </tr> </table>
+GitHub activity
+<div align="center"> <table> <tr> <td> <img height="165" alt="Mohit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mohi-008&show_icons=true&rank_icon=github&bg_color=07080F&title_color=22D3EE&text_color=C9CDE0&icon_color=A78BFA&border_color=1E2038"/> </td> <td> <img height="165" alt="Most used languages across Mohit's public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohi-008&layout=compact&langs_count=8&bg_color=07080F&title_color=22D3EE&text_color=C9CDE0&border_color=1E2038"/> </td> </tr> </table>
+
+<sub>Top languages show how much code is in my public repositories by language. They aren't a measure of skill.</sub>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=8957e5&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117)
+<img alt="Mohit's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=mohi-008&background=07080F&border=1E2038&stroke=1E2038&ring=22D3EE&fire=A78BFA&currStreakNum=FFFFFF&sideNums=E6E8F2&currStreakLabel=22D3EE&sideLabels=9AA0BA&dates=9AA0BA"/> </div>
+LeetCode
+<div align="center"> <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME"> <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap"/> </a> </div>
+Currently exploring
+<!-- EDIT: keep only what is true for you right now. -->
+Multimodal AI and LLM-powered applications
+Deeper computer vision and generative models
+Data structures and algorithms through regular LeetCode practice
+<!-- ## Achievements Add real achievements only (hackathons, certificates, open-source contributions). Example: - Certificate name, issuer, year -->
+Let's talk
 
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-```js
-const me = {
-  name: "YOUR NAME",
-  role: "Full Stack Developer",
-  location: "India 🇮🇳",
-  currentlyLearning: ["React", "Node.js", "System Design"],
-  currentlyBuilding: "Your project name",
-  askMeAbout: ["Web Dev", "Python", "Open Source"],
-  funFact: "Write something fun here",
-};
-```
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,mongodb,mysql,git,github,figma,vscode&theme=dark" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%"/>
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📌 Project One</h3>
-      <p>A short description of what this project does and why it's cool.</p>
-      <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></p>
-      <a href="https://github.com/YOUR_USERNAME/project-one">View Repo →</a>
-    </td>
-    <td width="50%">
-      <h3>📌 Project Two</h3>
-      <p>A short description of what this project does and why it's cool.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/></p>
-      <a href="https://github.com/YOUR_USERNAME/project-two">View Repo →</a>
-    </td>
-  </tr>
-</table>
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/YOUR_ID"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR_ID"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-</p>
-
-<div align="center">
-
-⭐ *If you like my work, leave a star on my repos!* ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
-
-</div>
+I'm open to collaborating on AI/ML projects and learning from people building in this space. Reach me through the links at the top of this page.
